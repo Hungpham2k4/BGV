@@ -14,6 +14,7 @@ public class MovieUpdateForm {
     private String description;
     private String director;
     private String thumbnailUrl;
+    private String backgroundUrl;
     private String videoUrl;
     private LocalDate releaseDate;
     private Integer duration;

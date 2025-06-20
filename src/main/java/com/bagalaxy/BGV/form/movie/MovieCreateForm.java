@@ -26,6 +26,9 @@ public class MovieCreateForm {
     private String thumbnailUrl;
 
     @NotBlank
+    private String backgroundUrl;
+
+    @NotBlank
     private String videoUrl;
 
     private LocalDate releaseDate;
